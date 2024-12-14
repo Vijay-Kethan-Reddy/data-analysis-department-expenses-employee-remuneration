@@ -72,9 +72,9 @@ A dataset containing 2023 employee data, including:
 # Project Description:
 The goal is to provide a statistical summary of employee data to understand the distribution of remuneration and expenses. The focus is on identifying central tendencies, variability, and any significant patterns across the dataset.
 
-![Descriptive Diagram](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/exploratory%20analysis%20chart.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20-%20Drawio.png?raw=true "Descriptive Diagram")
+![Descriptive Diagram](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20-%20Drawio.png?raw=true "Descriptive Diagram")
 
-![Descriptive Chart](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/exploratory%20analysis%20chart.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20-%20Drawio.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20chart.png?raw=true "Descriptive Chart")
+![Descriptive Chart](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20chart.png?raw=true "Descriptive Chart")
  
 # Project Title:
 Descriptive Statistical Analysis of Employee Data
@@ -134,7 +134,7 @@ Contains detailed information about employee remuneration and expenses for the y
 # Project Description:
 Ensuring the dataset meets quality standards by implementing control measures and audits to validate data accuracy and integrity.
 
-![Data Quality Diagram](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/exploratory%20analysis%20chart.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20-%20Drawio.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20chart.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/dataquality.png?raw=true "Data Quality Diagram")
+![Data Quality Diagram](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/dataquality.png?raw=true "Data Quality Diagram")
 
 # Project Title:
 Data Quality Control for Employee Remuneration Dataset
