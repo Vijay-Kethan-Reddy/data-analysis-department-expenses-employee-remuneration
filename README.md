@@ -2,7 +2,10 @@
 
 # Project Description:
 The project aims to find employee remuneration and expenses to find out trends, outliers, and key patterns. This will involve a deep analysis of the dataset using statistical and visualization techniques to understand the distribution of salaries and expenses for various departments and job roles.
- 
+
+![Exploratory Diagram](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Exploratory%20Analysis%20-%20DRAWIO.png?raw=true "Exploratory Diagram")
+
+![Exploratory Chart](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/exploratory%20analysis%20chart.png?raw=true "Exploratory Chart")
  
 # Project Title:
 Exploratory Data Analysis of Employee Remuneration and Expenses
@@ -68,7 +71,10 @@ A dataset containing 2023 employee data, including:
 
 # Project Description:
 The goal is to provide a statistical summary of employee data to understand the distribution of remuneration and expenses. The focus is on identifying central tendencies, variability, and any significant patterns across the dataset.
- 
+
+![Descriptive Diagram](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/exploratory%20analysis%20chart.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20-%20Drawio.png?raw=true "Descriptive Diagram")
+
+![Descriptive Chart](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/exploratory%20analysis%20chart.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20-%20Drawio.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20chart.png?raw=true "Descriptive Chart")
  
 # Project Title:
 Descriptive Statistical Analysis of Employee Data
@@ -127,7 +133,8 @@ Contains detailed information about employee remuneration and expenses for the y
 
 # Project Description:
 Ensuring the dataset meets quality standards by implementing control measures and audits to validate data accuracy and integrity.
- 
+
+![Data Quality Diagram](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/exploratory%20analysis%20chart.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20-%20Drawio.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/Descriptive%20Analysis%20chart.png?raw=true](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/dataquality.png?raw=true "Data Quality Diagram")
 
 # Project Title:
 Data Quality Control for Employee Remuneration Dataset
@@ -171,6 +178,8 @@ Contains detailed information about employee remuneration and expenses for the y
 •	Logs of system activity and errors.
 •	Configure alarms for deviations in storage usage or ETL pipeline performance.
 •	Allow for detailed tracking of AWS Glue jobs and S3 operations for comprehensive observability.
+
+![Dashboard](https://github.com/Vijay-Kethan-Reddy/data-analysis-department-expenses-employee-remuneration/blob/main/images/dashboard.png?raw=true "Dashboard")
 
 
  
